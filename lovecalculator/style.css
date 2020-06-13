@@ -1,0 +1,20 @@
+.main{
+  background-color: #fff;
+  color: #ff4c68;
+}
+.des{
+  margin-left: 10%;
+  width:450px;
+}
+.feature-img{
+  color: #ff4c68;
+}
+#demo{
+  font-size: 2.5rem;
+  margin-left: 10%;
+}
+@media (max-width:600px){
+  .des{
+    width:00px;
+  }
+}
